@@ -1,0 +1,15 @@
+commands:
+- commandname: "setpopa"
+  rocketmodcommands:
+    - "say hi"
+    - "rocket"
+  openmodcommands:
+    - "openmod"
+    - "god"
+- commandname: "bigs"
+  rocketmodcommands:
+    - "say second command"
+    - "rocket"
+  openmodcommands:
+    - "openmod"
+    - "vanish"
